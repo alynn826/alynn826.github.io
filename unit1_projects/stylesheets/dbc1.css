@@ -1,8 +1,14 @@
+Body {
+	
+	background-color: olive;
+	
+}
+
 p {
 	color: white;
-	background-color: olive;
 	font-family: Arial
 }
+
 #intro {
 	font: bold; 16px Arial;
 }
