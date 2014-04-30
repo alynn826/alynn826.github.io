@@ -43,8 +43,10 @@ a:visited {
 	padding: 25px;
 }
 
-#center {
+#caption {
 	position: absolute;
+	width: 80%;
+
 }
 
 .sidebar {
