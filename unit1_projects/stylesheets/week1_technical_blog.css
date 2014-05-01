@@ -1,0 +1,87 @@
+body {
+	font-family: Verdana;
+}
+
+p {
+	color: grey;
+}
+
+ul {
+	color: grey;
+}
+
+a {
+	text-decoration: none;
+
+}
+
+a:link {
+	color:blue;
+}
+
+a:hover {
+	color: red;
+}
+
+a:visited {
+	color:purple;
+}
+
+.header {
+	font-style: italic;
+	color: #700000;
+}
+
+#title { 
+	background-color: #700000;
+	border-radius: 7px;
+	text-align: center;
+	color: grey;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.blog {
+	height: 80%;
+	width: 60%;
+	float: left;
+	border: 1px solid #700000;
+	padding:5px;
+	border-radius: 7px
+
+}
+
+#aboutme {
+	height: 100px;
+	width:37%;
+	float:right;
+	border: 1px solid #700000;
+	padding:5px;
+	border-radius: 7px
+}
+
+#recent {
+	height: 150px;
+	width:37%;
+	float:right;
+	border: 1px solid #700000;
+	padding:5px;
+	border-radius: 7px
+
+
+}
+#footer {
+	position: relative;
+	background-color: #700000;
+	border-radius: 7px;
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	clear: both;
+
+
+
+}
+
+
+
