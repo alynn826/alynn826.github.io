@@ -50,11 +50,11 @@ a:visited {
 }
 
 .sidebar {
-	position: relative;
+	float: left;
 	height: 400px;
 	width: 20%;
 	background-color: grey;
-	margin-top: -400px;
+	margin-top:-420px;
 }
 
 #footer {
