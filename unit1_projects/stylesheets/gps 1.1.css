@@ -1,0 +1,11 @@
+ .header {
+            font-family: "Open Sans";
+            color: red;
+            text-align: center;
+            }
+ .header h1 {
+            font-size: 28px;
+        }
+ .peer img {
+            width: 30%;
+        }
